@@ -1,0 +1,14 @@
+yerifit-website/
+index.html
+sobre.html
+ rutinas.html
+ dietas.html
+ suplementos.html
+contacto.html
+ css/
+    style.css
+ js/
+    app.js
+ assets/
+   img/
+  logo.png
